@@ -1,0 +1,27 @@
+---
+title: 'NaturalistaUY un caso de ciencia comunitaria desde una perspectiva crítica'
+subtitle: '*Florencia Grattarola <a dir="ltr" href="http://orcid.org/0000-0001-8282-5732" target="_blank"><img class="is-rounded" src="/images/orcid.svg" width="15"></a>, Lucía Bergós <a dir="ltr" href="http://orcid.org/0000-0003-2330-3808" target="_blank"><img class="is-rounded" src="/images/orcid.svg" width="15"></a>, Magdalena Carabio, Solana González <a dir="ltr" href="http://orcid.org/0000-0003-2697-7365" target="_blank"><img class="is-rounded" src="/images/orcid.svg" width="15"></a> y Rodrigo Montiel <a dir="ltr" href="http://orcid.org/0009-0000-3128-5502" target="_blank"><img class="is-rounded" src="/images/orcid.svg" width="15"></a>*.'
+---
+
+<img class="is-rounded" src="images/CAPS-2024-logo.png" width="200" align="right">
+---
+
+### Mensaje principal
+El uso de NaturalistaUY (iNaturalist en Uruguay) en proyectos comunitarios despierta un gran interés y aunque la plataforma tiene una estructura establecida que puede resultar limitante en algunos aspectos su potencial comunitario permite una apropiación colectiva.  
+
+---
+
+### Poster 
+
+Navegá en el contenido:  
+
+1. [Resumen](/abstract_and_main_findings)  
+2. [Introducción](/intro)  
+3. [Eventos de ciencia comunitaria](/events)
+4. [Reflexiones](/reflections) 
+5. [Conclusiones y perspectivas](/future_directions)   
+6. [Agradecimientos](/acknowledgments)   
+
+<br>
+
+**Florencia Grattarola** | {{< fa globe >}} [flograttarola@gmail.com](mailto:flograttarola@gmail.com) | {{< fa envelope >}} [flograttarola.com](https://flograttarola.com/) | {{< fa brands twitter >}} [@flograttarola](https://twitter.com/flograttarola) | {{< fa brands mastodon >}}  [ecoevo.social/@flograttarola](https://ecoevo.social/@flograttarola)  | {{< fa brands bluesky >}} [@flograttarola.bsky.social](https://bsky.app/profile/flograttarola.bsky.social). 

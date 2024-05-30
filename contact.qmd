@@ -1,0 +1,23 @@
+---
+title: 'Contacto'
+---
+
+### Florencia Grattarola
+{{< fa globe >}} [flograttarola.com](https://flograttarola.com/)  
+{{< fa envelope >}} [flograttarola@gmail.com](mailto:flograttarola@gmail.com)   
+{{< fa brands twitter >}} [@flograttarola](https://twitter.com/flograttarola)  
+{{< fa brands mastodon >}}  [ecoevo.social/@flograttarola](https://ecoevo.social/@flograttarola)  
+{{< fa brands bluesky >}} [@flograttarola.bsky.social](https://bsky.app/profile/flograttarola.bsky.social).   
+
+
+### NaturalistaUY
+
+{{< fa globe >}} [naturalista.uy](https://www.naturalista.uy) | {{< fa envelope >}} [hola@naturalista.uy](mailto:hola@naturalista.uy) | {{< fa brands twitter >}} [@NaturalistaUY](https://twitter.com/NaturalistaUY) | {{< fa brands instagram >}} [@biodiversidata](https://twitter.com/biodiversidata) | {{< fa robot >}}  [bots.uy/@Naturalista](https://www.instagram.com/naturalistauy)  
+
+### Biodiversidata
+{{< fa globe >}} [biodiversidata.org](https://biodiversidata.org) | {{< fa brands twitter >}} [@biodiversidata](https://twitter.com/biodiversidata)  
+
+### JULANA
+{{< fa globe >}} [julana.org/](http://julana.org/) | {{< fa brands facebook >}} [jugandoenlanaturaleza](https://www.facebook.com/jugandoenlanaturaleza) | {{< fa brands instagram >}} [julana.uy/](https://www.instagram.com/julana.uy/) |
+
+

@@ -1,0 +1,29 @@
+---
+title: 'Introducción'
+---
+
+## Ciencia ciudadana en América Latina
+
+En las últimas décadas ha habido un gran desarrollo de plataformas de ciencia ciudadana a nivel mundial. Sin embargo, muchas de las experiencias en torno a estas plataformas se centran en la colecta de datos de forma ajena a las realidades locales. América Latina, en cambio, muestra históricamente un enfoque distinto. Las experiencias de ciencia ciudadana en América Latina son en general de base local[^1] y con una impronta tendiente a, por un lado, informar decisiones, mejorar las condiciones de vida de las personas y conservar la naturaleza, y por otro, a valorar la gran diversidad de tipos de conocimiento, al tiempo que se reducen las desigualdades de poder en el acceso a la información. 
+
+## Ciencia comunitaria
+
+Nosotras utilizamos del término **ciencia comunitaria**, que entendemos como:
+
+> "El proceso colaborativo de investigación en el que una comunidad trabaja en forma integrada para crear oportunidades de aprendizaje y generar nuevos conocimientos. Este proceso incluye la recolección, análisis e interpretación de datos y se guía por principios éticos que enfatizan la consideración de las expectativas y necesidades de todas las personas involucradas, así como el reconocimiento del trabajo de cada una de las partes."   
+
+## NaturalistaUY
+
+[iNaturalist](https://www.inaturalist.org) es una de las plataformas digitales globales de ciencia comunitaria más importantes del mundo y [NaturalistaUY](https://www.naturalista.uy) es nuestro portal nacional en Uruguay. La creación de NaturalistaUY se da en el marco del trabajo de [Biodiversidata](https://biodiversidata.org), el Consorcio de Datos de Biodiversidad del Uruguay, una iniciativa científica que busca mejorar el acceso a la información sobre biodiversidad en Uruguay a través de la disponibilización de datos abiertos. NaturalistaUY es impulsada también en colaboración con [JULANA](https://julana.org/), una ONG que promueve mediante la Educación Ambiental Crítica la construcción de puentes para hacer confluir diferentes formas de conocimiento.
+
+La introducción de esta nueva herramienta en Uruguay ocurre desde la articulación de **Biodiversidata** y **JULANA**, lo que nos pone en una situación privilegiada de poder enmarcar de qué forma queremos promover su uso
+
+
+## Objetivo
+
+Frente al auge en la región de la herramienta global iNaturalist y el lanzamiento de NaturalistaUY (iNaturalist en Uruguay), nos preguntamos, **¿podemos utilizar esta herramienta para generar conocimiento relevante para las comunidades locales?**
+
+Nuestro objetivo es compartir la experiencia de la primera serie de eventos comunitarios en Uruguay y reflexionar sobre la importancia de hacer ciencia comunitaria en América Latina desde una perspectiva crítica.
+
+[^1]: Piland N, Castañeda A, Varese M, Soacha Godoy KA, Ponciano L, D’Onofrio G, et al. (2020). Citizen science from the Iberoamerican perspective: an overview, and insights by the RICAP network. Available from: [http://hdl.handle.net/10261/240827](http://hdl.handle.net/10261/240827)
+

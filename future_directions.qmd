@@ -1,0 +1,15 @@
+---
+title: 'Conclusiones y perspectivas'
+---
+
+Este trabajo presenta una **experiencia pionera en Uruguay**, que combina ciencia comunitaria y Educación Ambiental Crítica para situar la recolección de datos y la generación de conocimientos en un contexto socio-político.
+
+En el marco de los conflictos ambientales y en espacios de participación en los que estos colectivos se involucran, la ciencia clásica sigue siendo el lenguaje valorado y aceptado por excelencia. NaturalistaUY puede contribuir a la popularización en la generación y uso de la información científico-técnica en relación a la biodiversidad, importante de cara a apoyar los argumentos de los colectivos frente a conflictos ambientales.
+
+Es importante enmarcar el uso de NaturalistaUY en procesos reflexivos sin perder la mirada crítica de la colecta de datos. Por eso, hacia adelante, alentamos a desarrollar experiencias donde la recolección de datos sea una herramienta y no un fin en sí mismo.
+
+## Perspectivas
+
+A futuro nos gustaría conocer con qué objetivos se está utilizando NaturalistaUY, por qué las personas están generando registros en Uruguay, qué usos le están dando a los datos, y si existen usos más individuales o colectivos.  
+
+En la medida que la herramienta sea utilizada por más personas, que la comunidad nacional siga creciendo, que más personas participen en el curado de la información a nivel local y que más colectivos se apropien de ella, veremos más casos de uso naciendo desde los territorios y no llegando desde fuera a ellos.  

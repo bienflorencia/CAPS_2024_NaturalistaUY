@@ -1,0 +1,32 @@
+---
+title: 'Paysandú'
+subtitle: 'Humedal la Curtiembre'
+filters:
+   - lightbox
+lightbox: auto
+---
+
+**Colectivos locales**: Paysandú Nuestro,  GENSA (Grupo Ecológico Naturista Sanducero) y Amigos de los Humedales.  
+**Participantes**: 13 personas entre 27 y 65 años.  
+**Más fotos del evento**: [Paysandú: Humedal la Curtiembre](https://www.flickr.com/photos/biodiversidata/albums/72177720299302345)  
+
+**Intereses**:   
+  1. Defensa del lugar frente a grandes emprendimientos de especulación inmobiliaria.  
+  2. Restauración del humedal y declaración de reserva como humedal urbano.  
+  
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); grid-gap: 1em;"}
+
+![](https://static.inaturalist.org/wiki_page_attachments/2997-original.png){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52102582522_ac7f8d5ed0_k.jpg){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52103641343_a1cea4988c_k.jpg){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52103641833_73431ceb01_k.jpg){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52103640778_668f701a2f_h.jpg){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52103641723_33dcd18b9f_k.jpg){group="my-gallery"}
+
+::: 

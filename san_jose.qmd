@@ -1,0 +1,30 @@
+---
+title: 'San José'
+subtitle: 'Quinta del Horno'
+filters:
+   - lightbox
+lightbox: auto
+---
+
+**Colectivos locales**: Ubajay y  San José Más Verde.  
+**Participantes**: 11 personas entre 30 y 61 años.  
+**Más fotos del evento**: [San José: Quinta del Horno](https://www.flickr.com/photos/biodiversidata/albums/72177720298822963)  
+
+**Intereses**:   
+  1. Recuperación de monte frente a la invasión de especies no nativas.  
+  2. Propuesta de declaración de reserva o área natural a nivel departamental.  
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); grid-gap: 1em;"}
+
+![](https://static.inaturalist.org/wiki_page_attachments/2995-original.png){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52064524833_09b2b0b15c_h.jpg){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52064998205_a829469e9b_h.jpg"){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52064483921_b7fa159fba_h.jpg){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52064485931_7075cab8e4_h.jpg){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52064713444_72677d8e1e_h.jpg){group="my-gallery"}
+::: 

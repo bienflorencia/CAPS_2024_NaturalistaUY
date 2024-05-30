@@ -1,0 +1,68 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: 'CAPS 2024 - NaturalistaUY'
+  #site-url: 'https://bienflorencia.github.io/rda-sharc-reco'
+  
+  page-footer:
+    right: 'This page is built with 💚 and [Quarto](https://quarto.org/)'
+    left: '&copy; CC-BY [Florencia Grattarola](https://flograttarola.com) (2024)'
+    background: '#F7F7F7'
+  
+  sidebar:
+    background: '#74AC00'
+    foreground: '#F7F7F7'
+    style: 'docked'
+    search: true
+    twitter-card: true
+    logo: 'images/naturalistauy_white.svg'
+    pinned: true
+    tools:
+      - icon: envelope
+        href: 'mailto:hola@naturalista.uy'
+        text: 'Email'
+      - icon: globe
+        href: 'https://www.naturalista.uy'
+        text: 'NaturalistaUY'
+      - icon: twitter
+        href: 'https://twitter.com/NaturalistaUY'
+        text: 'Twitter'
+      - icon: instagram
+        href: 'https://www.instagram.com/naturalistauy'
+        text: 'Instagram'
+      - icon: mastodon
+        href: 'https://ecoevo.social/@Naturalista@bots.uy'
+        text: 'Mastodon'
+      - icon: flickr
+        href: 'https://www.flickr.com/photos/biodiversidata'
+        text: 'Flickr'
+      - icon: github
+        href: 'https://github.com/bienflorencia/CAPS_2024_NaturalistaUY'
+        text: 'Github'
+    collapse-level: 2
+    contents:
+      - href: index.qmd
+        text: 'Inicio'
+      - section: 'Poster'
+        contents:
+          - abstract.qmd
+          - intro.qmd
+          - section: 'Eventos de ciencia comunitaria'
+            contents:
+              - events.qmd
+              - san_jose.qmd
+              - bella_union.qmd
+              - paysandu.qmd
+          - reflections.qmd
+          - future_directions.qmd
+          - acknowledgments.qmd
+      - href: contact.qmd
+        text: 'Contacto'
+format:
+  html:
+    theme: 
+      light: cosmo
+    css: styles.css
+    toc: false

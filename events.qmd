@@ -1,0 +1,16 @@
+---
+title: 'Eventos'
+---
+
+Fuimos a tres localidades de Uruguay: [San José](/san_jose), [Bella Unión](/bella_union) y [Paysandú](/paysandu) (@fig-mapa). La elección de los lugares fue determinada por dos factores: que los lugares tuvieran vacíos de información de biodiversidad[^1] y que contaran con la presencia de colectivos locales nucleados en torno a fines de conservación y/o defensa del territorio, para quienes esta herramienta pudiese ser de utilidad.
+
+![Eventos de ciencia comunitaria con NaturalistaUY desarrollados en mayo de 2022 en tres localidades del Uruguay, en el marco del proyecto "NaturalistaUY: la comunidad de iNaturalist para Uruguay](images/mapa.png){width=50% fig-align="left" .lightbox #fig-mapa}
+
+## Metodología
+
+En cada encuentro dialogamos sobre las preocupaciones, conflictos o tensiones ambientales presentes para los grupos locales, presentamos la herramienta[^2] y registramos la biodiversidad en lugares relevantes para cada comunidad. A lo largo de las jornadas se realizaron diversos tipos de actividades: dinámicas lúdicas, expositivas, de intercambio entre todas las personas participantes, de salida y registro en el campo, así como de momentos de reflexión. 
+
+
+[^1]: Soy naturalista y quiero pasear en mi país, ¿dónde hay más oportunidades de llenar vacíos de información? [Shinny app](https://bienflorencia.shinyapps.io/iNatUy_priority_map/)
+
+[^2]: Presentación utilizada durante los eventos [Diapositivas](https://docs.google.com/presentation/d/1ENxh9mg-8QpiddP4A3kXZSYC8R_5dMWiMvOdsbMV2j0/edit?usp=sharing)

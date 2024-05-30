@@ -1,0 +1,31 @@
+---
+title: 'Bella Unión'
+subtitle: 'Rincón de Franquía'
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+**Colectivos locales**: GruPAmA (Grupo para la Protección Ambiental Activa).  
+**Participantes**: 13 personas entre 19 y 64 años.  
+**Más fotos del evento**: [Paysandú: Rincón de Franquía](https://www.flickr.com/photos/biodiversidata/albums/72177720299309183)  
+
+**Intereses**:   
+  1. Acercar a jóvenes a la naturaleza y al área protegida.  
+  2. Observación de la biodiversidad.  
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); grid-gap: 1em;"}
+
+![](https://static.inaturalist.org/wiki_page_attachments/2998-original.png){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52103814069_72dc9abbc4_h.jpg){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52103606618_d03d636eae_h.jpg"){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52103564276_218f62169d_h.jpg){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52102536322_50b36d94ba_h.jpg){group="my-gallery"}
+
+![](https://live.staticflickr.com/65535/52103817919_0965d3d210_h.jpg){group="my-gallery"}
+::: 
