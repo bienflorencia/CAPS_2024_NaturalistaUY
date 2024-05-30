@@ -24,4 +24,4 @@ Navegá en el contenido:
 
 <br>
 
-**Florencia Grattarola** | {{< fa globe >}} [flograttarola@gmail.com](mailto:flograttarola@gmail.com) | {{< fa envelope >}} [flograttarola.com](https://flograttarola.com/) | {{< fa brands twitter >}} [@flograttarola](https://twitter.com/flograttarola) | {{< fa brands mastodon >}}  [ecoevo.social/@flograttarola](https://ecoevo.social/@flograttarola)  | {{< fa brands bluesky >}} [@flograttarola.bsky.social](https://bsky.app/profile/flograttarola.bsky.social). 
+**Florencia Grattarola** | {{< fa envelope >}} [flograttarola@gmail.com](mailto:flograttarola@gmail.com) 
