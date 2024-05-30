@@ -4,7 +4,8 @@ project:
 website:
   page-navigation: true
   title: 'CAPS 2024 - NaturalistaUY'
-  #site-url: 'https://bienflorencia.github.io/rda-sharc-reco'
+  site-url: 'https://bienflorencia.github.io/CAPS_2024_NaturalistaUY'
+  repo-url: https://github.com/bienflorencia/CAPS_2024_NaturalistaUY
   
   page-footer:
     right: 'This page is built with 💚 and [Quarto](https://quarto.org/)'
