@@ -15,7 +15,7 @@ El uso de NaturalistaUY (iNaturalist en Uruguay) en proyectos comunitarios despi
 
 Navegá en el contenido:  
 
-1. [Resumen](/abstract_and_main_findings)  
+1. [Resumen](/abstract)  
 2. [Introducción](/intro)  
 3. [Eventos de ciencia comunitaria](/events)
 4. [Reflexiones](/reflections) 
