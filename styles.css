@@ -1,13 +1,1 @@
 /* css styles */
-.btn {
-  background-color: #74AC00;
-  border: none;
-  color: white;
-  padding: 12px 16px;
-  font-size: 16px;
-  cursor: pointer;
-}
-.btn:hover {
-  background-color: #666666;
-  color: white;
-}

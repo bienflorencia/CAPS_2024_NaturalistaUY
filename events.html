@@ -40,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -231,15 +234,25 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Fuimos a tres localidades de Uruguay: <a href="./san_jose">San José</a>, <a href="./bella_union">Bella Unión</a> y <a href="./paysandu">Paysandú</a> (<strong>?@fig-mapa</strong>). La elección de los lugares fue determinada por dos factores: que los lugares tuvieran vacíos de información de biodiversidad<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> y que contaran con la presencia de colectivos locales nucleados en torno a fines de conservación y/o defensa del territorio, para quienes esta herramienta pudiese ser de utilidad.</p>
-<!-- ![Eventos de ciencia comunitaria con NaturalistaUY desarrollados en mayo de 2022 en tres localidades del Uruguay, en el marco del proyecto "NaturalistaUY: la comunidad de iNaturalist para Uruguay](images/mapa.png){width=50% fig-align="left" .lightbox #fig-mapa} -->
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YLHXqbBvmCKlnXKhI72H6xdWr2Bh4wXy&amp;ehbc=2E312F&amp;noprof=1" width="640" height="480">
-</iframe>
+<p>Fuimos a tres localidades de Uruguay: <a href="./san_jose">San José</a>, <a href="./bella_union">Bella Unión</a> y <a href="./paysandu">Paysandú</a> (<a href="#fig-mapa" class="quarto-xref">Figura&nbsp;1</a>). La elección de los lugares fue determinada por dos factores: que los lugares tuvieran vacíos de información de biodiversidad<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> y que contaran con la presencia de colectivos locales nucleados en torno a fines de conservación y/o defensa del territorio, para quienes esta herramienta pudiese ser de utilidad.</p>
+<div id="fig-mapa" class="lightbox quarto-figure quarto-figure-left quarto-float anchored" data-fig-align="left">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-mapa-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="images/mapa.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1"><img src="images/mapa.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:50.0%"></a>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-mapa-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figura&nbsp;1: Eventos de ciencia comunitaria con NaturalistaUY desarrollados en mayo de 2022 en tres localidades del Uruguay, en el marco del proyecto “NaturalistaUY: la comunidad de iNaturalist para Uruguay
+</figcaption>
+</figure>
+</div>
 <section id="metodología" class="level2">
 <h2 class="anchored" data-anchor-id="metodología">Metodología</h2>
 <p>En cada encuentro dialogamos sobre las preocupaciones, conflictos o tensiones ambientales presentes para los grupos locales, presentamos la herramienta<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> y registramos la biodiversidad en lugares relevantes para cada comunidad. A lo largo de las jornadas se realizaron diversos tipos de actividades: dinámicas lúdicas, expositivas, de intercambio entre todas las personas participantes, de salida y registro en el campo, así como de momentos de reflexión.</p>
 
 
+<div class="hidden" aria-hidden="true">
+<span class="glightbox-desc lightbox-desc-1">Figura&nbsp;1: Eventos de ciencia comunitaria con NaturalistaUY desarrollados en mayo de 2022 en tres localidades del Uruguay, en el marco del proyecto “NaturalistaUY: la comunidad de iNaturalist para Uruguay</span>
+</div>
 </section>
 
 
@@ -685,6 +698,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"loop":false,"selector":".lightbox","closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
