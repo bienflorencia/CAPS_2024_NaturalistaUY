@@ -1,5 +1,6 @@
 ---
 title: 'Introducción'
+lang: es
 ---
 
 ## Ciencia ciudadana en América Latina

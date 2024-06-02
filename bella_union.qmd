@@ -4,6 +4,7 @@ subtitle: 'Rincón de Franquía'
 filters:
    - lightbox
 lightbox: auto
+lang: es
 ---
 
 

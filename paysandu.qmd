@@ -4,6 +4,7 @@ subtitle: 'Humedal la Curtiembre'
 filters:
    - lightbox
 lightbox: auto
+lang: es
 ---
 
 **Colectivos locales**: Paysandú Nuestro,  GENSA (Grupo Ecológico Naturista Sanducero) y Amigos de los Humedales.  

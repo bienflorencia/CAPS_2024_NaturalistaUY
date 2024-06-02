@@ -1,5 +1,6 @@
 ---
 title: 'Eventos'
+lang: es
 ---
 
 Fuimos a tres localidades de Uruguay: [San José](/san_jose), [Bella Unión](/bella_union) y [Paysandú](/paysandu) (@fig-mapa). La elección de los lugares fue determinada por dos factores: que los lugares tuvieran vacíos de información de biodiversidad[^1] y que contaran con la presencia de colectivos locales nucleados en torno a fines de conservación y/o defensa del territorio, para quienes esta herramienta pudiese ser de utilidad.

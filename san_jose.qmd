@@ -4,6 +4,7 @@ subtitle: 'Quinta del Horno'
 filters:
    - lightbox
 lightbox: auto
+lang: es
 ---
 
 **Colectivos locales**: Ubajay y  San José Más Verde.  
