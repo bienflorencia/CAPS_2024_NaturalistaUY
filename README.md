@@ -5,7 +5,8 @@
 Póster a ser presentado en la *Conference for Advancing Participatory Sciences*, en la sesión 'Biodiversidad', día 3 de junio de 2024.
 
 
-[Accedé al poster acá](https://bienflorencia.github.io/CAPS_2024_NaturalistaUY/)
+Accedé al poster acá [bienflorencia.github.io/CAPS_2024_NaturalistaUY](https://bienflorencia.github.io/CAPS_2024_NaturalistaUY/)
 
+![website](/images/webpage.png)
 
 
